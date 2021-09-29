@@ -1,2 +1,3 @@
 # sorting-algorithms-c-language
-Sorting al
+
+1. bubble sort
